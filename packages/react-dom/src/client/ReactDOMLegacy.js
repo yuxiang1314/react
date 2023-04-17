@@ -315,6 +315,7 @@ export function hydrate(
   );
 }
 
+// render函数的说明
 export function render(
   element: React$Element<any>,
   container: Container,
